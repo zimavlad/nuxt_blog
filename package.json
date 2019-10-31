@@ -16,7 +16,7 @@
     "cross-env": "^5.2.0",
     "element-ui": "^2.7.2",
     "express": "^4.16.4",
-    "mongoose": "^5.5.7",
+    "mongoose": "^5.7.5",
     "nuxt": "^2.4.0",
     "vue-markdown": "^2.2.4"
   },
